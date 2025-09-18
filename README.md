@@ -5,7 +5,7 @@ contoh output di atas // 1 2 3 4 5 6 7 8 9 10
 
 soal:
 
-buatkan flowchart increment dengan output // 10 9 8 7 65 4 3 2 1
+buatkan flowchart increment dengan output // 10 9 8 7 6 5 4 3 2 1
 
 hasil nya di ss aja atau di foto kirim ke link figma berikut
 
